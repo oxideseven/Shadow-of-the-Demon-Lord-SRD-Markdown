@@ -1,7 +1,7 @@
 ---
 NoteIcon:
   - mechanic
-  - Mechanic\Misc
+  - mechanic\misc
 ---
 ## Cover
 
@@ -18,30 +18,30 @@ Interposing terrain and objects provide protection against ranged attacks.
 
 You become incapacitated when your damage total equals your Health score.
 
-- Fall [prone.](https://janscarton.com/sotdl/#prone)
+- Fall [[Afflictions#prone|prone]]
 - If you suffer any more damage, you die.
 - If you heal any damage, you are no longer incapacitated.
 - Become Disabled…
-    - You are [Defenseless](https://janscarton.com/sotdl/#defenseless).
+    - You are [[Afflictions#Defenseless|defenseless]].
     - Make a Fate Roll (1d6) at the end of each round.
         - 1st or 2nd Fate Roll…
             - Result: 1 = Start Dying (see below)
             - Result: 2–5 = No change
             - Result: 6…
                 - Heal 1 damage
-                - Become [Impaired](https://janscarton.com/sotdl/#impared) for 1 minute.
+                - Become [[Afflictions#Impaired|impaired]] for 1 minute.
         - 3rd Fate Roll…
             - Result: 1 = Start Dying (see below)
             - Result: 2–5…
                 - Stop making Fate Rolls.
-                - Fall [Unconscious](https://janscarton.com/sotdl/#unconscious) for 1d3 hours, then…
+                - Fall [[Afflictions#Unconscious|unconcsious]] for 1d3 hours, then…
                     - Heal 1 damage
-                    - Become [Impaired](https://janscarton.com/sotdl/#impared) for 1 minute.
+                    - Become [[Afflictions#Impaired|impaired]] for 1 minute.
             - Result: 6…
                 - Heal 1 damage
-                - Become [Impaired](https://janscarton.com/sotdl/#impared) for 1 minute
+                - Become [[Afflictions#Impaired|impaired]] for 1 minute
 - Dying (from rolling a 1 on a Fate Roll while Disabled, see above)
-    - Fall [Unconscious](https://janscarton.com/sotdl/#unconscious).
+    - Fall [[Afflictions#Unconscious|unconscious]].
     - Make a Fate Roll (1d6) at the end of each round.
         - Result: 1 = You die
         - Result: 2–5 = No change

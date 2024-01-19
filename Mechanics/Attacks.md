@@ -1,11 +1,11 @@
 ---
 NoteIcon:
   - mechanic
-  - Mechanic\Attacks
+  - mechanic\attacks
 ---
 ## Melee Weapon Attack
 
-Deal damage to a target within your weapon's [reach](Range.md), or choose one of the following options for an additional effect.
+Deal damage to a target within your weapon's [[Misc#Range|range]], or choose one of the following options for an additional effect.
 
 **Driving Attack:** You make the attack roll with 1 bane. On a success, you and the target move a number of yards equal to your Strength modifier in the same direction.
 
@@ -21,11 +21,11 @@ Page 50
 
 ## Ranged Weapon Attack
 
-Deal damage to a target within your weapon's [[range]], or choose one of the following options for an additional effect.
+Deal damage to a target within your weapon's [[Misc#Range|range]], or choose one of the following options for an additional effect.
 
 **Called Shot:** You attack a specific location on the target’s body. You can use this option only if the target has a physical body. Make the attack roll with 2 banes. On a success, the attack has an additional effect as determined by the GM. Attacking a creature’s eyes might impose 1 bane on all rolls the target makes that rely on sight, for example.
 
-**Distant Shot:** You can attack a target that is beyond your weapon’s [[range]], but no more than twice the weapon’s range. You make the attack roll with 1 bane.
+**Distant Shot:** You can attack a target that is beyond your weapon’s [[Misc#Range|range]], but no more than twice the weapon’s range. You make the attack roll with 1 bane.
 
 **Staggering Shot:** You make the attack roll with 2 banes. On a success, a target that is your Size or smaller must make an Agility challenge roll. On a failure, the target falls [[Afflictions#prone|prone]].
 
@@ -33,7 +33,7 @@ Page 51
 
 ## Charge
 
-When you use an action to charge, you make attack rolls and challenge rolls with 1 bane until the end of the round. Move up to your Speed. At any point during your movement, make one attack with a [[melee]] weapon or with an attribute to [[Attacks#Knock Down|knock down]] or [[Attacks#Shove|shove]] a creature.
+When you use an action to charge, you make attack rolls and challenge rolls with 1 bane until the end of the round. Move up to your Speed. At any point during your movement, make one attack with a [[Attacks#Melee Weapon Attack|melee]] weapon or with an attribute to [[Attacks#Knock Down|knock down]] or [[Attacks#Shove|shove]] a creature.
 
 Page 52
 
@@ -51,7 +51,7 @@ Page 51
 
 ## Escape
 
-You can use this action if you are [[Afflictions#Grab|grabbed]]. Make a Strength or Agility attack roll against the Strength of the creature that has grabbed you. A success removes the grabbed affliction and lets you move up to half your Speed. This movement does not trigger free attacks from the creature that had grabbed you.
+You can use this action if you are [[Afflictions#Grabbed|grabbed]]. Make a Strength or Agility attack roll against the Strength of the creature that has grabbed you. A success removes the grabbed affliction and lets you move up to half your Speed. This movement does not trigger free attacks from the creature that had grabbed you.
 
 Page 52
 
@@ -65,7 +65,7 @@ Page 52
 
 You must have at least one hand free to grab, and you cannot be grabbing another creature. Choose one target creature within your reach that has a physical body (not a spirit, for example) and make a Strength or Agility attack roll against the target’s Agility. If you choose a creature you are already grabbing, you automatically get a success.
 
-On a success, the target becomes [[grabbed]] until the end of the next round. If you are prevented from using actions (such as because you are [[dazed]], [[stunned]], or [[unconscious]], the grabbed affliction ends. The grabbed affliction also ends if you move or are moved to a position where you can no longer reach the grabbed target.
+On a success, the target becomes [[Afflictions#Grabbed|grabbed]] until the end of the next round. If you are prevented from using actions (such as because you are [[Afflictions#dazed|dazed]], [[Afflictions#Stunned|stunned]], or [[Afflictions#Unconscious|unconscious]], the grabbed affliction ends. The grabbed affliction also ends if you move or are moved to a position where you can no longer reach the grabbed target.
 
 Page 52
 

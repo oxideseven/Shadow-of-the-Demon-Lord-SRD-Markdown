@@ -1,11 +1,11 @@
 ---
 NoteIcon:
   - mechanic
-  - Mechanic\Afflictions
+  - mechanic\afflictions
 ---
 ## Asleep
 
-A sleeping creature is [prone](https://janscarton.com/sotdl/#prone) and [unconscious](https://janscarton.com/sotdl/#unconscious). Another creature that can reach it can use an action to wake it up. Unless otherwise noted, taking damage removes this affliction.
+A sleeping creature is [[3-Mechanics/Afflictions#Prone|prone]] and [[3-Mechanics/Afflictions#Unconscious|unconscious]]. Another creature that can reach it can use an action to wake it up. Unless otherwise noted, taking damage removes this affliction.
 
 Page 41
 
@@ -68,7 +68,7 @@ Page 41
 
 The effects of the affliction depend on the creature’s Size. If the grabbed creature’s Size is equal to or smaller than that of the creature grabbing it, the grabbed creature cannot move away from the creature that grabbed it until it removes the affliction.
 
-If the grabbed creature’s Size is larger than that of the creature grabbing it, whenever the grabbed creature moves, the creature grabbing it can choose to move with it (by clinging to the grabbed creature’s body) or end the grab. (See [Grab](https://janscarton.com/sotdl/#grab) for more information on how to grab, and [Escape](https://janscarton.com/sotdl/#escape) for how to escape a grab.)
+If the grabbed creature’s Size is larger than that of the creature grabbing it, whenever the grabbed creature moves, the creature grabbing it can choose to move with it (by clinging to the grabbed creature’s body) or end the grab. (See [[3-Mechanics/attacks#Grab|grab]] for more information on how to grab, and [[3-Mechanics/Attacks#Escape|escape]] for how to escape a grab.)
 
 Page 41
 

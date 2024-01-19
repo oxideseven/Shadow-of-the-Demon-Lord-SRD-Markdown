@@ -1,7 +1,7 @@
 ---
 NoteIcon:
   - mechanic
-  - Mechanic\Actions
+  - mechanic\actions
 ---
 ## Cast a Spell
 
@@ -21,7 +21,7 @@ Page 48
 
 ## Defend
 
-When you defend, until the end of the round, all attack rolls are made against you with 1 bane and you make all challenge rolls to resist attacks with 1 boon. These benefits end if you are prevented from using actions, such as when you become [[Afflictions#Dazed|dazed]], [[Afflictions#Stunned|stunned]], or [[Afflictions#Unconscious|unconcious]].
+When you defend, until the end of the round, all attack rolls are made against you with 1 bane and you make all challenge rolls to resist attacks with 1 boon. These benefits end if you are prevented from using actions, such as when you become [[3-Mechanics/Afflictions#Dazed|dazed]], [[3-Mechanics/Afflictions#Stunned|stunned]], or [[3-Mechanics/Afflictions#Unconscious|unconcious]].
 
 Page 48
 
@@ -61,7 +61,7 @@ You prepare to undertake an activity when a specified event occurs. Choose one a
 
 If the triggering event occurs before the end of the round, you can use a triggered action to perform the activity. You make any attack roll or challenge roll required by the activity with 1 boon. Otherwise, nothing happens.
 
-For example, Bobby takes a fast turn and uses an action to prepare an attack against the first enemy that moves into his reach. When a hostile warg moves up to attack his character, Bobby uses his triggered action to attack it with his sword, making the attack roll with 1 boon.
+For example, *Bobby takes a fast turn and uses an action to prepare an attack against the first enemy that moves into his reach. When a hostile warg moves up to attack his character, Bobby uses his triggered action to attack it with his sword, making the attack roll with 1 boon*.
 
 Page 49
 
